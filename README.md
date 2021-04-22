@@ -2,7 +2,7 @@
 
 Replacement of missing data for psychological questionnaires structured by Likert-type items using k-Nearest Neighbour. The function implements the method described by Jonsson and Wohlin (2004, 2006).
 
-**Warning:** For large datasets, the process can be very slow.
+**Warning:** for large datasets, the process can be very slow.
 
 ## Usage
 
